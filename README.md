@@ -40,8 +40,6 @@
 ### 🌱 Atualmente estou aprendendo:
 
 <ul>
-  <li>Frameworks JavaScript como React ou Vue.js</li>
-  <li>A aprofundar meus conhecimentos em Git e GitHub</li>
   <li>Princípios de UI/UX para criar interfaces mais amigáveis</li>
 </ul>
 
